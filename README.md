@@ -33,6 +33,8 @@ A web-based AI study assistant built for IT students covering 4 specialised stre
  Group Members
 - Lehlogonolo Ledwaba
 - Murunwa Mudzhadzhi
--Leslie Kekane
--Mutshutshudzi Nemanashi
+- Leslie Kekane
+- Mutshutshudzi Nemanashi
+
+
 
