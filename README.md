@@ -30,6 +30,9 @@ A web-based AI study assistant built for IT students covering 4 specialised stre
    python app.py
 5. Open your browser at http://127.0.0.1:5000
 
+   Live Demo
+ https://ch-at-bo-t.onrender.com
+
  Group Members
 - Lehlogonolo Ledwaba
 - Murunwa Mudzhadzhi
